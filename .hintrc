@@ -11,7 +11,8 @@
           "@-ms-viewport"
         ]
       }
-    ]
+    ],
+    "disown-opener": "off"
   },
   "browserslist": [
     "defaults",
